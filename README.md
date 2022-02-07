@@ -1,17 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<!-- high-school-bitcoin-education -->
-  MY BITCOIN FUTURE
-</head>
-<body>
-<h1></h1>
-<p></p>
-</body>
-</html>
+MY BITCOIN FUTURE
 
 the Bitcoin Education Pilot Program for El Salvador's Secondary Schools
-
 
 WHO
 - Escuala La Pacheco  (La Pacheco School) 
