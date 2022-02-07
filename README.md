@@ -2,28 +2,32 @@
 
 ## *for El Salvador's Secondary Schools*
 
-### WHO
+### Who
 - Escuala La Pacheco  (La Pacheco School) 
 - high-school level
 - 1st year : 200 students
 
-### WHAT
+### What
 - **Bitcoin Education**
 - understand the importance of Bitcoin
 - develop the technical skills to use Bitcoin to improve their lives 
 - open career oppertunities
 
-### WHEN 
+### When
 - construction of classrooms begins: Q1 '22
 - courses begin: Q2 '22
 
-### WHERE
+### Where
 - La Pacheco Escuela
 - San Marcos, San Salvador, El Salvador
 
-### WHY
+### Why
 - educate & inspire future Bitcoiners
 - develop a scholastic model for national adaption
 
-## CONTACT US
+## About Us
+- we're passionate Bitcoiner volunteers who beleive in the power of education & in the importance of success for El Salvador's Bitcoin adaption
+- we're working in collaboration with My First Bitcoin, a registered non-profit education project here in El Salvador (https://miprimerbitcoin.io/)
+
+## Contact Us
 - bitcoin-high-school-education@protonmail.com
