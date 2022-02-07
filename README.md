@@ -25,5 +25,5 @@ WHY
 - educate & inspire future Bitcoiners
 - develop a scholastic model for national adaption
 
-CONTACT 
+CONTACT US
 - bitcoin-high-school-education@protonmail.com
