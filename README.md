@@ -1,6 +1,6 @@
-# MY BITCOIN FUTURE
+# the Bitcoin Education Pilot Program
 
-## *the Bitcoin Education Pilot Program for El Salvador's Secondary Schools*
+## *for El Salvador's Secondary Schools*
 
 ### WHO
 - Escuala La Pacheco  (La Pacheco School) 
