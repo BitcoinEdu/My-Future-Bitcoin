@@ -26,8 +26,8 @@
 - develop a scholastic model for national adaption
 
 ## About Us
-- we're passionate Bitcoiner volunteers who beleive in the power of education & in the importance of success for El Salvador's Bitcoin adaption
-- we're working in collaboration with My First Bitcoin, a registered non-profit education project here in El Salvador (https://miprimerbitcoin.io/)
+- we're passionate Bitcoin volunteers who beleive in the power of education & in the importance of success for El Salvador's Bitcoin adaption
+- we're working in collaboration with My First Bitcoin, a registered non-profit education project here in El Salvador - https://miprimerbitcoin.io/
 
 ## Contact Us
 - bitcoin-high-school-education@protonmail.com
